@@ -23,7 +23,7 @@ I have worked on a variety of projects, using the following technologies:
 * Worked in groups of 4 or more people, developing the necessary skills for working as part of a team.
 * Helped to plan the syllabus for the next cohort of students.
 
-### Projects
+#### Projects
 
 * ReuseApp - Liaised with Worthwhile charity, built an app in two days to help solve the problem of waste.
 
