@@ -23,6 +23,16 @@ I have worked on a variety of projects, using the following technologies:
 * Worked in groups of 4 or more people, developing the necessary skills for working as part of a team.
 * Helped to plan the syllabus for the next cohort of students.
 
+### Projects
+
+* ReuseApp - Liaised with Worthwhile charity, built an app in two days to help solve the problem of waste.
+
+[Github Repo](https://github.com/JMurphyWeb/onpurposehack) | [App](http://reuseapp.herokuapp.com/product-page)
+
+* CoachPoint - Worked alongside Centrepoint charity for two days building prototype for an app to help homeless people in the UK better know their rights.
+
+[Github Repo](https://github.com/FAC7/myhousingrights) | [App](http://housing-rights.herokuapp.com/)
+
 ## Work Experience
 
 * Private Tutor - I tutor Maths, Physics and French A-level students. *2012 - present*
@@ -41,4 +51,3 @@ I have worked on a variety of projects, using the following technologies:
 ## Links
 
 [LinkedIn](https://www.linkedin.com/in/ivan-gonzalez-108a4b112) | <ivan@foundersandcoders.com> | [Codewars](http://www.codewars.com/users/ivanmauricio)
-
