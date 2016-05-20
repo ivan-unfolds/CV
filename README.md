@@ -18,7 +18,7 @@ I have worked on a variety of projects, using the following technologies:
 
 [<img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="240">](http://www.foundersandcoders.com/)
 
-* Completed 16 week coding bootcamp, where emphasis was placed on peer lead learning.
+* Completed 16 week coding bootcamp, where emphasis was placed on peer led learning.
 * Learnt best practices such as Test Driven Development and Pair Programming.
 * Worked in groups of 4 or more people, developing the necessary skills for working as part of a team.
 * Helped to plan the syllabus for the next cohort of students.
