@@ -27,7 +27,7 @@ I have worked on a variety of projects, using the following technologies:
 
 * ReuseApp - Liaised with Worthwhile charity, built an app in two days to help solve the problem of waste.
 
-[Github Repo](https://github.com/JMurphyWeb/onpurposehack) | [App](http://reuseapp.herokuapp.com/product-page)
+[Github Repo](https://github.com/JMurphyWeb/onpurposehack) | [App](http://reuseapp.herokuapp.com/)
 
 * CoachPoint - Worked alongside Centrepoint charity for two days building prototype for an app to help homeless people in the UK better know their rights.
 
