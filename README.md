@@ -9,7 +9,7 @@ I have worked on a variety of projects, using the following technologies:
 |Languages 	|Frameworks/Libraries	|Testing| Tools/Others|Databases|
 |:--------:|:---------------------:|:------:|:-----------:|:-----------------------:|
 |JavaScript	|Hapi	              |Tape     	  |Git	          |Redis
-|Node.js   	|React	            |Mocha	      |npm
+|Node.js   	|React	            |Mocha	      |npm            |MySQL
 |HTML5     	|Bootstrap  	          |QUnit	      |Heroku
 |CSS3      	|Sass	              |Jasmine
 |Markdown   |Redux
