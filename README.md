@@ -18,12 +18,12 @@ I have worked on a variety of projects, using the following technologies:
 
 [<img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="240">](http://www.foundersandcoders.com/)
 
-* Completed 16 week coding bootcamp, where emphasis was placed on peer lead learning.
+* Completed 16 week coding bootcamp, where emphasis was placed on peer led learning.
 * Learnt best practices such as Test Driven Development and Pair Programming.
 * Worked in groups of 4 or more people, developing the necessary skills for working as part of a team.
 * Helped to plan the syllabus for the next cohort of students.
 
-### Projects
+#### Projects
 
 * Hub - Built a native iPhone app so that NHS workers could keep contact with patients finishing treatment. Currently being trialled by the NHS.
 
@@ -31,7 +31,7 @@ I have worked on a variety of projects, using the following technologies:
 
 * ReuseApp - Liaised with Worthwhile charity, built an app in two days to help solve the problem of waste.
 
-[Github Repo](https://github.com/JMurphyWeb/onpurposehack) | [App](http://reuseapp.herokuapp.com/product-page)
+[Github Repo](https://github.com/JMurphyWeb/onpurposehack) | [App](http://reuseapp.herokuapp.com/)
 
 * CoachPoint - Worked alongside Centrepoint charity for two days building prototype for an app to help homeless people in the UK better know their rights.
 
