@@ -1,57 +1,54 @@
 # Ivan Gonzalez
 
-I am motivated by learning which is why I have chosen to embark upon a career as a Web Developer. The potential of technology to help solve some of society's most pressing problems is hugely exciting for me.
-
 ## Skills
 
-I have worked on a variety of projects, using the following technologies:
+|Languages/Core Technologies 	  |Frameworks/Libraries	|Tools       |Testing         |Databases     |
+|:-----------------------------:|:-------------------:|:----------:|:--------------:|:------------:|
+|JavaScript	                    |Hapi	                |Git         |Tape	          |MySQL
+|Node.js   	                    |React/React Native   |npm	       |Mocha           |Redis
+|HTML5     	                    |Redux  	            |Heroku	     |QUnit           |PostgreSQL
+|CSS3      	                    |Express	            |Vim         |Jasmine
+|SASS                           |Sails                |Webpack     |Travis
+|Markdown                       |Ramda                |Browserify
+|Scheme                         |Handlebars
+|Elm                            |Braintree Payments
 
-|Languages 	|Frameworks/Libraries	|Testing| Tools/Others|Databases|
-|:--------:|:---------------------:|:------:|:-----------:|:-----------------------:|
-|JavaScript	|Hapi	              |Tape     	  |Git	          |Redis
-|Node.js   	|React	            |Mocha	      |npm            |MySQL
-|HTML5     	|Bootstrap  	          |QUnit	      |Heroku
-|CSS3      	|Sass	              |Jasmine
-|Markdown   |Redux
+## Relevant Experience
 
-## Experience
+**Sail Back** 06/16 - present
 
-[<img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="240">](http://www.foundersandcoders.com/)
+A membership management system for *The Friends of Chichester Harbour*. Joined project with existing code base written in a functional style. This meant having to learn a new paradigm in a short amount of time. Originally working under a lead developer, I am now the project leader.
 
-* Completed 16 week coding bootcamp, where emphasis was placed on peer led learning.
-* Learnt best practices such as Test Driven Development and Pair Programming.
-* Worked in groups of 4 or more people, developing the necessary skills for working as part of a team.
-* Helped to plan the syllabus for the next cohort of students.
+[Github Repo](https://github.com/foundersandcoders/sail-back)
 
-#### Projects
+**Hub** 05/16 - 06/16
 
-* Hub - Built a native iPhone app so that NHS workers could keep contact with patients finishing treatment. Currently being trialled by the NHS.
+In collaboration with the *Anna Freud Centre* and NHS staff, co-developed an iPhone app allowing hospital workers to publish events, meet-ups and group sessions to out of hospital patients. Learnt the skills required for making products designed for a native phone environment as opposed to a web browser.
 
 [Github Repo](https://github.com/FAC7/anna-freud-hub)
 
-* ReuseApp - Liaised with Worthwhile charity, built an app in two days to help solve the problem of waste.
+## Other Experience
 
-[Github Repo](https://github.com/JMurphyWeb/onpurposehack) | [App](http://reuseapp.herokuapp.com/)
+**Private Tutor** 09/12 - 12/15
 
-* CoachPoint - Worked alongside Centrepoint charity for two days building prototype for an app to help homeless people in the UK better know their rights.
+Tutored GCSE, A-level and university students. Made personalised study plans for each student. Repeatedly helped pupils achieve above their expected grades.
 
-[Github Repo](https://github.com/FAC7/myhousingrights) | [App](http://housing-rights.herokuapp.com/)
-
-## Work Experience
-
-* Private Tutor - I tutor Maths, Physics and French A-level students. *2012 - present*
-
-* South Kensington Bookshop - Bookseller at independent bookshop. *2012 - 2014*
+**Bookseller - South Kensington Bookshop** 06/12 - 12/14
 
 ## Education
 
-* Bsc in Physics from Imperial College London *2009-2013*
+**Founders and Coders** 01/16 - 05/16
+
+Completed 16 week coding bootcamp, where emphasis was placed on peer led learning. Worked in groups of 4, co-developing a number of prototypes. Collaborated in forming syllabus for next cohort of students and taught them principles of TDD and SQL databases.
+
+**Imperial College London** 09/09 - 09/13
+
+Physics Bsc with Second Class Honours
 
 ## Interests
 
-* Reading non-fiction. Some of my favourite topics are psychology, evolution and history.
-* I ran my first half marathon this year and hope to complete many more.
+Reading non-fiction, especially psychology, evolution and history. *Godel, Escher, Bach* is my favourite book of all time. Ran first half marathon in March and hope to complete many more.
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/ivan-gonzalez-108a4b112) | <ivan@foundersandcoders.com> | [Codewars](http://www.codewars.com/users/ivanmauricio)
+[LinkedIn](https://www.linkedin.com/in/ivan-gonzalez-108a4b112) | <ivan@foundersandcoders.com>
