@@ -27,6 +27,18 @@ In collaboration with the *Anna Freud Centre* and NHS staff, co-developed an iPh
 
 [Github Repo](https://github.com/FAC7/anna-freud-hub)
 
+## Education
+
+**Founders and Coders** 01/16 - 05/16
+
+Completed 16 week coding bootcamp, where emphasis was placed on peer led learning. Worked in groups of 4, co-developing a number of prototypes. Collaborated in forming syllabus for next cohort of students and taught them principles of TDD and SQL databases.
+
+**Imperial College London** 10/09 - 09/13
+
+*Physics Bsc with Second Class Honours*
+
+Final year modules: Nuclear and Particle Physics, Solid State and Atomic Physics, Astrophysics, Quantum Theory of Matter.
+
 ## Other Experience
 
 **Private Tutor** 09/12 - 12/15
@@ -35,20 +47,13 @@ Tutored GCSE, A-level and university students. Made personalised study plans for
 
 **Bookseller - South Kensington Bookshop** 06/12 - 12/14
 
-## Education
-
-**Founders and Coders** 01/16 - 05/16
-
-Completed 16 week coding bootcamp, where emphasis was placed on peer led learning. Worked in groups of 4, co-developing a number of prototypes. Collaborated in forming syllabus for next cohort of students and taught them principles of TDD and SQL databases.
-
-**Imperial College London** 09/09 - 09/13
-
-Physics Bsc with Second Class Honours
+Managed shop’s website and social media pages. Wrote script to automate cashing up process. Often left in charge at weekends.
 
 ## Interests
 
-Reading non-fiction, especially psychology, evolution and history. *Godel, Escher, Bach* is my favourite book of all time. Ran first half marathon in March and hope to complete many more.
+Reading non-fiction, especially psychology, evolution and history. *Godel, Escher, Bach* is my favourite book of all time. Ran first half marathon in March and hope to complete many more. Fluent in Spanish and high proficiency in spoken and written
+French.
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/ivan-gonzalez-108a4b112) | <ivan@foundersandcoders.com>
+[LinkedIn](https://www.linkedin.com/in/i-gonzalez) | <ivangonzalez@rocketmail.com>
