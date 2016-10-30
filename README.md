@@ -51,8 +51,7 @@ Managed shop’s website and social media pages. Wrote script to automate cashin
 
 ## Interests
 
-Reading non-fiction, especially psychology, evolution and history. *Godel, Escher, Bach* is my favourite book of all time. Ran first half marathon in March and hope to complete many more. Fluent in Spanish and high proficiency in spoken and written
-French.
+Reading non-fiction, especially psychology, evolution and history. *Godel, Escher, Bach* is my favourite book of all time. Ran first half marathon in March and hope to complete many more. Fluent in Spanish and high proficiency in spoken and written French.
 
 ## Links
 
