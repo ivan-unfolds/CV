@@ -33,7 +33,7 @@ In collaboration with the *Anna Freud Centre* and NHS staff, co-developed an iPh
 
 Completed 16 week coding bootcamp, where emphasis was placed on peer led learning. Worked in groups of 4, co-developing a number of prototypes. Collaborated in forming syllabus for next cohort of students and taught them principles of TDD and SQL databases.
 
-**Imperial College London** 10/09 - 09/13
+**Imperial College London** 10/09 - 06/13
 
 *Physics Bsc with Second Class Honours*
 
